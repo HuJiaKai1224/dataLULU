@@ -2,7 +2,6 @@ package com.tom
 
 fun main() {
 //    println("Yoooo man kotlin")
-
 //    Taitan().hello()
     val h =Taitan()
     h.hello()
